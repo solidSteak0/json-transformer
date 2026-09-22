@@ -1,0 +1,9 @@
+[
+  { "name": "Michael", "email": "michael@example.com", "active": true },
+  { "name": "Donald", "email": "donald@example.com", "active": false },
+  { "name": "Manuchim", "email": "manuchim@example.com", "active": true },
+  { "name": "Ben", "email": "ben@example.com", "active": false },
+  { "name": "Victor", "email": "victor@example.com", "active": true },
+  { "name": "Gild", "email": "gild@example.com", "active": false },
+  { "name": "Chizi", "email": "chizi@example.com", "active": true }
+]
