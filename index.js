@@ -12,7 +12,7 @@ try {
 
   const result = data
     .filter(({ active }) => active)
-    .map(({ name, email }) => ({ name, email }));
+    .map(({ name, email, active }) => ({ name, email, active }));
 
   await writeFile(output, JSON.stringify(result, null, 2));
   console.log(`Wrote ${result.length} records to ${output}`);

@@ -1,18 +1,22 @@
 [
   {
     "name": "Michael",
-    "email": "michael@example.com"
+    "email": "michael@example.com",
+    "active": true
   },
   {
     "name": "Manuchim",
-    "email": "manuchim@example.com"
+    "email": "manuchim@example.com",
+    "active": true
   },
   {
     "name": "Victor",
-    "email": "victor@example.com"
+    "email": "victor@example.com",
+    "active": true
   },
   {
     "name": "Chizi",
-    "email": "chizi@example.com"
+    "email": "chizi@example.com",
+    "active": true
   }
 ]
